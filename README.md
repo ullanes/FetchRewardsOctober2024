@@ -3,7 +3,7 @@
 An Android app that is written in kotlin that retrieves data from a url us MVVM architecture.
 
 ## Requirements
-- [X] Display all items grouped by list
+- [X] Display all items grouped by listId
 - [X] Sort the results by "listId" and then by "name"
 - [X] Filter out any items where "name" is blank or null.
 
